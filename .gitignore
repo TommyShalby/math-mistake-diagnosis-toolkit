@@ -1,0 +1,35 @@
+# Secrets
+.env
+*.key
+*.pem
+*.p12
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Outputs
+outputs/
+reports/
+*.md.tmp
+*_ckpt.json
+*_checkpoint.json
+_debug_raw*/
+debug/
+logs/
+
+# Data / private study material
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
